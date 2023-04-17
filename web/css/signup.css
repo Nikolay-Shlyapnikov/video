@@ -1,0 +1,16 @@
+ul, ol {
+    list-style: none;
+  }
+  
+  .form {
+    max-width: 600px;
+    border: 1px solid #007bff;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 30px auto;
+  }
+  
+  .form__title {
+    margin-top: 30px;
+    text-align: center;
+  }
